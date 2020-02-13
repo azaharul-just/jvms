@@ -1,2 +1,1 @@
-JVMS
-JUST University Vehicle Management Syestem
+JUST University Vehicle Management Syestem (JVMS)
